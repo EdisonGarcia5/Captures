@@ -1,0 +1,35 @@
+                  ajustar imagenes.
+
+ /*ubicar la imagen ya sea a la derecha o izquierda*/
+   clear: both;
+   float: right;/*Derecha*/
+
+   clear: both;
+   float: left; /*Izquierda*/
+
+/*ubicar la imagen ya sea a la derecha o izquierda*/
+    clear: both;
+    float: right;/*Derecha*/
+
+    /*Distancia de separecion a los laterales (margen) */
+    margin-right: 5px; /*Derecha*/
+    margin-left: 30px; /*Izquierda*/
+    margin-bottom: 20px; /*Abajo*/
+
+/*con estos 2 comandos haces el responsi para que la imagen se adapte al tamaño de la pagina. */
+    display: block;
+    margin: auto;
+
+               Textos 
+
+font-weight: bold; /*Agrega negrillas*/
+
+font-size: 20px; /*tamaño de fuente: 20px;*/
+
+font-family: ; /*Fuente de letra.*/
+
+text-align: center; /*centra un texto*/
+
+
+
+

@@ -1,0 +1,50 @@
+
+/* Con el body afecta a todas las etiquetas */
+
+.informacion{ /*biologia*/
+    text-align: center; /*Centra los textos o imagenes*/
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.informacion1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Comida{ /*comida*/
+    text-align: center;
+    font-size: 50px;
+}
+
+/* solo afecta a la etiqueta escogida (Ejemplo: p)*/
+.Comida1{ /*comida*/
+    color:deepskyblue;/*Colocar colores al texto*/
+    font-size: 20px;/*para aumentar el tamaño del texto*//* Otros tipos de tamaño serian px, %, em, rem*/
+    font-family: Arial, Helvetica, sans-serif; /*Fuente de letra*/
+}  
+
+.Subtitulo{
+    font-weight: bold;
+}
+
+.IMG{ /*con estos 2 comandos haces el responsi para que la imagen se adapte al tamaño de la pagina. */
+    display: block;
+    margin: auto;
+}
+
+.Imagenes{ /* ajustar imagenes*/
+
+    /*ubicar la imagen ya sea a la derecha o izquierda*/
+    clear: both;
+    float: right;/*Derecha*/
+
+    /*Distancia de separecion a los laterales (margen) */
+    margin-right: 5px; /*Derecha*/
+    margin-left: 30px; /*Izquierda*/
+    margin-bottom: 20px; /*Abajo*/
+}
+
+.beta{ 
+
+    
+    
+}

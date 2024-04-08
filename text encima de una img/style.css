@@ -1,0 +1,31 @@
+
+/* para centrar una imagen ce necesita estos comandos */
+.Presentacion{
+    
+    background-image: url(img/OIP.jpg);/*img de fondo*/
+    background-position: center; /*centrar la img*/
+    background-repeat: no-repeat;/*no repite la img*/
+    background-size: cover;/*para que cubra el area del text*/
+
+    text-align: center;/*para que el texto este en el centro*/
+    color: azure;/*color de texto*/
+    padding: 100px;/*zoom de la img*/
+}
+
+.title{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+
+.Inf{
+    font-family: monospace;
+    font-size: 18px;
+    margin: 20px;
+    margin-left: 5px;
+    margin-right: 15px;
+}
+
+.Infor{
+    display: flex;
+}
